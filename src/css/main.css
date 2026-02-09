@@ -1,0 +1,13 @@
+/* import common */
+@import './variables.css';
+@import './reset.css';
+@import './common.css';
+
+/* import sections css */
+@import '../parts/header.css';
+@import '../parts/section-1.css';
+@import '../parts/section-2.css';
+@import '../parts/section-3.css';
+@import '../parts/footer.css';
+
+

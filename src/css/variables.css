@@ -1,0 +1,14 @@
+:root {
+  --debug: 1px dashed red;
+  --debug: none;
+
+  --font-primary: "Roboto", sans-serif;
+  --font-secondary: "Raleway", sans-serif;
+
+  --text-color-primary: 67 68 85;
+  --text-color-secondary: 46 47 66;
+
+  --bg-color-primary: 255 255 255;
+  --bg-color-secondary: 46 47 66;
+
+}
